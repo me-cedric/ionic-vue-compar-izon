@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue-compar-izon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
